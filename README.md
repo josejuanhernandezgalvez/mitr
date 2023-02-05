@@ -29,3 +29,5 @@ This feature allows you to count the number of occurrences of a specific text st
 ```
 mitr -i text input-file
 ```
+(c) 2021 José Juan Hernández Gálvez
+
